@@ -1,0 +1,8 @@
+body 
+{
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm-oy_VROWUdFrsIqTNfNKMA7xS6-E47UkWg&s') no-repeat;
+  background-size: cover;
+}
